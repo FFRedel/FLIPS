@@ -38,5 +38,7 @@ The other files contain the following information:
 
 These files are allowed to be adjusted. However, without permission of the authors, it is not allowed to publish or distribute these files. 
 
+This research was supported by the European Research Council (ERC) under the European Unions Horizon 2020 research and innovation programme (TRUST-949796).
+
 
 
